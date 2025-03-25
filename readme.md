@@ -9,6 +9,5 @@ This site aggregator website includes user authentication to ensure secure acces
 ![Add-Post](/Documentation/Add-Post.png "Adding a Post")
 
 
-
 ## Run
 The program is hosted locally so you will need mongodb on your system to run (link). Download the code and run "node app.mjs" to start the site. On a browser (chrome recommended) type "localhost:3000" to access the website
