@@ -1,0 +1,36 @@
+{
+  "name": "homework05-singharjun1409",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nyu-csci-ua-0467-001-002-spring-2025/homework05-singharjun1409.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nyu-csci-ua-0467-001-002-spring-2025/homework05-singharjun1409/issues"
+  },
+  "homepage": "https://github.com/nyu-csci-ua-0467-001-002-spring-2025/homework05-singharjun1409#readme",
+  "description": "",
+  "type": "module",
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "express-session": "^1.18.1",
+    "hbs": "^4.2.0",
+    "mongo-sanitize": "^1.1.0",
+    "mongoose": "^8.12.1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.22.0",
+    "eslint": "^9.22.0",
+    "eslint-plugin-mocha": "^10.5.0",
+    "globals": "^16.0.0",
+    "mongoose-slug-plugin": "^2.1.0"
+  }
+}
